@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package fibo;
+//update modifikasi faktorial
 
 /**
  *
